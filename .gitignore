@@ -1,0 +1,13 @@
+**/venv/
+**/.venv/
+**/__pycache__/
+*.pyc
+*.rar
+*.ipynb_checkpoints/
+.gitignore.txt
+SOURCE CODE (1)/SOURCE CODE/Detection of Cyberbullying/model/Wikipedia Dataset/wiki.pkl
+SOURCE CODE (1)/SOURCE CODE/Detection of Cyberbullying/model/Wikipedia Dataset/tfid_wiki.pkl
+SOURCE CODE (1)/SOURCE CODE/Detection of Cyberbullying/model/Wikipedia Dataset/attack_annotated_comments.csv
+SOURCE CODE (1)/SOURCE CODE/Detection of Cyberbullying/model/Wikipedia Dataset/attack_annotations.csv
+SOURCE CODE (1)/SOURCE CODE/Detection of Cyberbullying/model/Wikipedia Dataset/personals.csv
+SOURCE CODE (1)/SOURCE CODE/Detection of Cyberbullying/model/Wikipedia Dataset/attack_worker_demographics.csv
